@@ -18,7 +18,9 @@
 - 🔭: Actualmente curso el segundo año de MulWeb
 - 🌱: Estoy aprendiendo a crear aplicaciones tanto web como multiplataforma
 - ⚡: En mi tiempo libre me gusta aprender sobre las últimas tecnologías
-- 📫: Para cualquier cosa puedes contactarme  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-guerreros-ocon/)
+- 📫: Para cualquier cosa no dudes en contactarme 
+------------------------------
+
 <!--
 **Marcos-Guerreros-Ocon/Marcos-Guerreros-Ocon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
