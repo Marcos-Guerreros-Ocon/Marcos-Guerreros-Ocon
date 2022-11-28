@@ -13,13 +13,17 @@
 </h1>
 </div>
 
+---
+
 ### :man_technologist: Sobre mi
  Soy un estudiante de desarrollo de aplicaciones web y multiplataforma en el IES Comercio
 - 🔭: Actualmente curso el segundo año de MulWeb
 - 🌱: Estoy aprendiendo a crear aplicaciones tanto web como multiplataforma
 - ⚡: En mi tiempo libre me gusta aprender sobre las últimas tecnologías
 - 📫: Para cualquier cosa no dudes en contactarme 
+
 ---
+
 :hammer_and_wrench: Lenguajes y herramientas:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -31,6 +35,8 @@
        <img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain-wordmark.svg" title="CodeIgniter" alt="CodeIgniter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git"alt="Git" width="40" height="40"/>
 </div>
-------
+
+---
+
 ### 🔥 Mis estadisticas:
-[![GitHub Streak](https://streak-stats.demolab.com?user=Marcos-Guerreros-Ocon&theme=dark&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
