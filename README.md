@@ -31,6 +31,6 @@
        <img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain-wordmark.svg" title="CodeIgniter" alt="CodeIgniter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git"alt="Git" width="40" height="40"/>
 </div>
----
-### :fire: Mis estadisticas :
+------
+### 🔥 Mis estadisticas:
 [![GitHub Streak](https://streak-stats.demolab.com?user=Marcos-Guerreros-Ocon&theme=dark&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
