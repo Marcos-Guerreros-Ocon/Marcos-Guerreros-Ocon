@@ -19,11 +19,10 @@
 
 ### :man_technologist: Sobre mi
  Soy un estudiante de desarrollo de aplicaciones web y multiplataforma en el IES Comercio
-- 🔭: Actualmente curso el segundo año de MulWeb
+- 🔭: Actualmente curso el tercer año de MulWeb
 - 🌱: Estoy aprendiendo a crear aplicaciones tanto web como multiplataforma
 - ⚡: En mi tiempo libre me gusta aprender sobre las últimas tecnologías
 - 📫: Para cualquier cosa no dudes en contactarme 
-
 
 ---
 
